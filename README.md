@@ -1,4 +1,4 @@
-# Entregável_2 – Algoritmos em JavaScript
+# Entregável_1_Javascript
 
 Repositório desenvolvido no **WebStorm** contendo a implementação de seis algoritmos clássicos em **JavaScript**, como parte do projeto **Entregável_1**, uma aplicação web.
 
