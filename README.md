@@ -1,6 +1,6 @@
 # Entregável_1_Javascript
 
-Repositório desenvolvido no **WebStorm** contendo a implementação de seis algoritmos clássicos em **JavaScript**, como parte do projeto **Entregável_1**, uma aplicação web.
+Repositório desenvolvido no **WebStorm** contendo a implementação de seis algoritmos clássicos em **JavaScript**, como parte do projeto **Entregável 1**, uma aplicação web.
 
 ## 📋 Descrição
 
