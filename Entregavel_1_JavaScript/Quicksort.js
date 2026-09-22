@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 let entrada = prompt("Digite os números separados por vírgula (ex: 5,3,8,1,9): ");
 
 let array = entrada.split(",").map(item => parseInt(item.trim()));
@@ -31,4 +32,3 @@ let resultado = quicksort(array);
 
 console.log("Array original: " + array.join(", "));
 console.log("Array ordenado: " + resultado.join(", "));
-alert("Array ordenado: " + resultado.join(", "));

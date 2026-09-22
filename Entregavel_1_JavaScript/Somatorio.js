@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 let n = prompt("Quantidade de números:");
 let numero;
 let soma = 0;

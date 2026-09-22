@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 let n = prompt("Número de notas:");
 let nota;
 let contagem = 0;

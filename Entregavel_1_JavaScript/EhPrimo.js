@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 function ehPrimo(n) {
     var n = parseInt(prompt("Qual número você deseja testar se é primo? "));
 

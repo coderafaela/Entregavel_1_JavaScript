@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 let a = parseInt(prompt("Digite o primeiro número inteiro:"));
 let b = parseInt(prompt("Digite o segundo número inteiro:"));
 

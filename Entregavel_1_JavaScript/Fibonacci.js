@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 let n = prompt("Número de termos:");
 
 let a = 0;
